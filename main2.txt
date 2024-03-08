@@ -3,4 +3,8 @@
 4-other
 5-main
 5-other
+<<<<<<< HEAD
 6-main
+=======
+6-other
+>>>>>>> 88825f59f6c8a286dd6fb5009cd2d17e67e1cd44
